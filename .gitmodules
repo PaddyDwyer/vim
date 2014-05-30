@@ -7,3 +7,9 @@
 [submodule "bundle/groovy.vim"]
 	path = bundle/groovy.vim
 	url = https://github.com/vim-scripts/groovy.vim--Ruley.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
