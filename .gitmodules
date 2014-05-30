@@ -1,0 +1,9 @@
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git://github.com/SirVer/ultisnips.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/groovy.vim"]
+	path = bundle/groovy.vim
+	url = https://github.com/vim-scripts/groovy.vim--Ruley.git
