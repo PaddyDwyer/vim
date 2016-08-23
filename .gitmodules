@@ -34,3 +34,6 @@
 [submodule "command-t"]
 	path = command-t
 	url = git@github.com:wincent/command-t.git
+[submodule "bundle/vim-yaml-helper"]
+	path = bundle/vim-yaml-helper
+	url = git@github.com:lmeijvogel/vim-yaml-helper.git
