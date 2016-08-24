@@ -37,3 +37,6 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = https://github.com/wincent/command-t.git
+[submodule "bundle/vim-indentwise"]
+	path = bundle/vim-indentwise
+	url = git://github.com/jeetsukumaran/vim-indentwise.git
