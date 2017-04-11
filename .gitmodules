@@ -58,3 +58,6 @@
 [submodule "bundle/vim-jsx"]
 	path = bundle/vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/far"]
+	path = bundle/far
+	url = https://github.com/brooth/far.vim.git
