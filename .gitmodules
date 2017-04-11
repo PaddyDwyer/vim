@@ -61,3 +61,6 @@
 [submodule "bundle/far"]
 	path = bundle/far
 	url = https://github.com/brooth/far.vim.git
+[submodule "bundle/ri.vim"]
+	path = bundle/ri.vim
+	url = https://github.com/danchoi/ri.vim.git
