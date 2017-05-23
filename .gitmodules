@@ -64,3 +64,6 @@
 [submodule "bundle/ri.vim"]
 	path = bundle/ri.vim
 	url = https://github.com/danchoi/ri.vim.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
