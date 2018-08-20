@@ -76,3 +76,6 @@
 [submodule "bundle/vim-bootstrap3-snippets"]
 	path = bundle/vim-bootstrap3-snippets
 	url = https://github.com/chrisgillis/vim-bootstrap3-snippets.git
+[submodule "bundle/vim-yaml"]
+	path = bundle/vim-yaml
+	url = https://github.com/stephpy/vim-yaml.git
