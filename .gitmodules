@@ -1,6 +1,6 @@
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
-	url = git://github.com/SirVer/ultisnips.git
+	url = https://PaddyDwyer@github.com/SirVer/ultisnips.git
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
@@ -36,7 +36,7 @@
 	url = https://github.com/lmeijvogel/vim-yaml-helper.git
 [submodule "bundle/vim-indentwise"]
 	path = bundle/vim-indentwise
-	url = git://github.com/jeetsukumaran/vim-indentwise.git
+	url = https://github.com/jeetsukumaran/vim-indentwise.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
