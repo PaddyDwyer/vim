@@ -81,7 +81,7 @@
 	url = https://github.com/stephpy/vim-yaml.git
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
-	url = https://tpope.io/vim/unimpaired.git
+	url = git@github.com:tpope/vim-unimpaired.git
 [submodule "bundle/linediff"]
 	path = bundle/linediff
 	url = git@github.com:AndrewRadev/linediff.vim.git
